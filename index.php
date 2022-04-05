@@ -3,7 +3,7 @@
 
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Kota Bogor</title>
+  <title>Kota Bandungr</title>
   <link rel="stylesheet" href="assets/styles/style.css">
 </head>
 
@@ -11,9 +11,9 @@
   <!-- Bagian Header -->
   <header>
     <div class="jumbotron">
-      <h1>Bogor</h1>
+      <h1>Bandung</h1>
       <p>
-        Kota Bogor terkenal dengan julukan Kota Hujan karena memiliki curah hujan yang tinggi.
+        Kota kembang merupakan sebutan lain untuk kota ini, karena pada zaman dulu kota ini dinilai sangat cantik dengan banyaknya pohon dan bunga-bunga yang tumbuh di sana. Selain itu Bandung dahulunya disebut juga dengan Paris van Java karena keindahannya. Selain itu kota Bandung juga dikenal sebagai kota belanja, dengan mall dan factory outlet yang banyak tersebar di kota ini, dan saat ini berangsur-angsur kota Bandung juga menjadi kota wisata kuliner. 
       </p>
     </div>
     <nav>
@@ -32,7 +32,7 @@
         <h2 id="sejarah">Sejarah</h2>
         <img src="assets/image/history.jpg" class="featured-image" alt="sejarah">
         <p>
-          Salah satu pendapat menyatakan bahwa nama Bogor berasal dari kata Bahai atau Baqar yang berarti sapi dengan alasan terdapat bukti berupa patung sapi di Kebun Raya Bogor. Pendapat lainnya menyebutkan bahwa nama Bogor berasal dari kata Bokor yang berarti tunggul pohon enau (kawung).
+           Kota Bandung dialiri dua sungai utama, yaitu Sungai Cikapundung dan Sungai Citarum beserta anak-anak sungainya yang pada umumnya mengalir ke arah selatan dan bertemu di Sungai Citarum. Dengan kondisi yang demikian, Bandung selatan sangat rentan terhadap masalah banjir terutama pada musim hujan.
         </p>
         <p>
           Berdasarkan filosofi Sunda, kata Bandung juga berasal dari kalimat Nga-Bandung-an Banda Indung, yang merupakan
